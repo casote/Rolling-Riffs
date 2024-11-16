@@ -1,4 +1,4 @@
-🎸 Rolling Riffs - Jogo de Plataforma de Skate com Temática de Rock 🛹🎵  
+🎸 Rolling Riffs - Jogo de Plataforma de Skate e Rock 🛹🎵  
   
 Rolling Riffs é um jogo desenvolvido em Unity, misturando elementos visuais de pixel art e 3D para criar uma experiência única. Com uma trilha sonora intensa e níveis desafiadores, o jogo combina adrenalina do skate com o poder do rock.  
   
